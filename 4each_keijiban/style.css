@@ -1,0 +1,155 @@
+.logo img {
+    width: 250px;
+  }
+  header {
+    width: 100%;
+    height: 40px;
+    background-color: black;
+  }
+  
+  header ul {
+    list-style-type: none;
+    line-height: 50px;
+  }
+  
+  header ul li {
+    float: left;
+    padding-right: 50px;
+    padding-left: 20px;
+    color: white;
+    font-size: 8px;
+  }
+  
+  main {
+    clear: both;
+  }
+  .main-container{
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+  h1 {
+    border-left: 5px solid black;
+    border-bottom: 1px solid black;
+  }
+  .left{
+    
+    float: left;
+    background-color: white;
+    width: 70%;
+    margin-bottom: 40px;
+  }
+
+  form h2 {
+    margin: 0 auto;
+    margin-top: 30px;
+    border-left: 4px red solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width: 95%;
+    font-size: 20px;
+    
+  }
+  
+  
+
+  form{margin: 0 auto;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 99%; 
+}
+
+form div{
+    padding: 15px;
+}
+
+.text, textarea, .dropdown{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+    
+}
+
+.submit{
+    border: 1px solid lightgrey;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+  
+  .right {
+    float: left;
+    background-color: white;
+    width: 25%;
+    margin-bottom: 40px;
+  }
+  
+  .right ul {
+    list-style-type: none;
+    margin-left: 15px;
+    margin-top: 5px;
+    line-height: 30px;
+  
+  }
+  
+  .right li {
+    font-size: 12px;
+  }
+  
+  h3 {
+    margin-left: 40px;
+    border-bottom: 2px dotted black ;
+  }
+  
+  
+  
+  footer {
+    clear: left;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  .box2 {
+    width: 100%;
+    background-color: lightgray;
+    text-align: center;
+  }
+  
+  .box2 img {
+    width: 100%;
+    margin: 20px 0px -10px  0px
+  }
+  
+  .box2 .box_pic2 {
+    display: inline-block;
+    width: 23% ;
+  }
+
+
+  .kiji {
+      margin-bottom: 10px;
+      padding: 10px 10px;
+      background-color: #fbfbfb;
+      border: 3px #ebebeb solid;
+      width: 100%; 
+  }
+
+  .kiji h3 {
+      border-bottom: solid 2px lightgrey;
+  }
+
+  .contents {
+      margin: 5px;
+      padding-bottom: 5px;
+  }
+
+  .handlename {
+      font-size: 12px;
+  }
